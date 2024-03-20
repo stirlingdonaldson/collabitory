@@ -1,3 +1,7 @@
+# Collabitory
+
+Personal website using bun
+
 ## Deployment
 
 To run
@@ -9,3 +13,4 @@ Custom port can be define through passing --port, if no port defined default to 
 ```bash
   bun run start --port 8080
 ```
+
