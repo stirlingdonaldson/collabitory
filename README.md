@@ -1,3 +1,4 @@
 # Collabitory
-## install bun from https://bun.sh and run 
-## bun run index.ts
+## setup
+install [bun](http:s://bun.sh) and run  
+`bun run index.ts`
